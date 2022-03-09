@@ -1,4 +1,4 @@
-Hello, it's Max here...
+Hello, it's Max here
 
 I work at Github 🐱👨‍🚀🐙 as a designer on the [Primer](https://github.com/primer) team.
 
